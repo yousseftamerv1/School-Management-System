@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1704236047 source:c:\users\youssef\desktop\school managment system in linked list\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704239918 c:\users\youssef\desktop\school managment system in linked list\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704239872 c:\users\youssef\desktop\school managment system in linked list\school managment system\functions.c
+
+1704225772 c:\users\youssef\desktop\school managment system in linked list\school managment system\scheme.h
+	"functions.h"
+
+1704236569 c:\users\youssef\desktop\school managment system in linked list\school managment system\scheme.c
+	"scheme.h"
+
+1704239949 source:d:\c projects\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704320095 d:\c projects\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704323004 d:\c projects\school managment system\scheme.h
+	"functions.h"
+
+1704323081 d:\c projects\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704325340 d:\c projects\school managment system\functions.c
+	"functions.h"
+
+1704239950 source:e:\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704362868 e:\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704323006 e:\school managment system\scheme.h
+	"functions.h"
+
+1704323082 e:\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704365256 e:\school managment system\functions.c
+	"functions.h"
+
+1704239950 source:e:\__\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704362868 e:\__\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704365288 e:\__\school managment system\scheme.h
+	"functions.h"
+
+1704365286 e:\__\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704373348 e:\__\school managment system\functions.c
+	"functions.h"
+
+1704239950 source:f:\__\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704362868 f:\__\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704365288 f:\__\school managment system\scheme.h
+	"functions.h"
+
+1704365286 f:\__\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704373348 f:\__\school managment system\functions.c
+	"functions.h"
+
+1704239950 source:c:\users\user\desktop\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704362868 c:\users\user\desktop\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704365288 c:\users\user\desktop\school managment system\scheme.h
+	"functions.h"
+
+1704365286 c:\users\user\desktop\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704412123 c:\users\user\desktop\school managment system\functions.c
+	"functions.h"
+
+1704239950 source:c:\users\youssef\desktop\school managment system\main.c
+	"functions.h"
+	"functions.c"
+
+1704362868 c:\users\youssef\desktop\school managment system\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"scheme.h"
+	"scheme.c"
+
+1704365288 c:\users\youssef\desktop\school managment system\scheme.h
+	"functions.h"
+
+1704365286 c:\users\youssef\desktop\school managment system\scheme.c
+	"scheme.h"
+	<time.h>
+
+1704458718 c:\users\youssef\desktop\school managment system\functions.c
+	"functions.h"
+
