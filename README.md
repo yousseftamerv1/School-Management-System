@@ -10,7 +10,7 @@ This project done by Youssef Tamer & Youssef Walid
 * User-friendly Command line looking
 
 
-## Usage
+## Functionalities
 
 * Add students.
 * Append students.
